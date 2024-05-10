@@ -55,6 +55,14 @@ namespace E_Commerce.Controllers
             int s = a + b;
             return s;
         }
+        /// le code corrige 
+        public int sommeilyass(int a, int b)
+        {
+
+               
+                return a + b;
+        }
+
 
  
 
